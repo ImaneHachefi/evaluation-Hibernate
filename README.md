@@ -188,10 +188,4 @@ Le `Test` crée 10 femmes, 5 hommes et 11 mariages, puis exécute toutes les req
 <img width="936" height="813" alt="Capture d&#39;écran 2026-10-19 222910" src="https://github.com/user-attachments/assets/04ecbf94-46a7-4198-bf82-18001d9d31e3" />
 <img width="1727" height="653" alt="Capture d&#39;écran 2026-10-19 222928" src="https://github.com/user-attachments/assets/dcc3d7f0-396c-45c7-96fc-47b07ea3efce" />
 
----
 
-## Auteur
-
-- Nom : Imane Hachefi
-- Filière : ...
-- Année universitaire : ...
